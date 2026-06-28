@@ -6,7 +6,7 @@ This project explores whether introducing a new payment mechanism can significan
 
 ### Company Context: EduPro
 
-The platform offers paid learning services. Improving payment conversion is crucial for revenue growth. The product team implemented a new payment flow and randomly assigned users to control and test groups. The business expects a measurable increase in purchase conversion.
+EduPro is a fictional learning platform which offers paid learning services. Improving payment conversion is crucial for revenue growth. The product team implemented a new payment flow and randomly assigned users to control and test groups. The business expects a measurable increase in purchase conversion.
 
 ---
 
